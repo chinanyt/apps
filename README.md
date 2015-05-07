@@ -23,4 +23,4 @@
 ### 扫描二维码订阅每日/每周精选内容
 成为纽约时报中文网注册用户，可以通过电子邮件订阅每日/每周精选内容。
 
-<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/nytcn-registration-qrcode.png" alt="扫描二维码订阅每日/每周精选内容" width="200">
+<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/nytcn-registration.png" alt="扫描二维码订阅每日/每周精选内容" width="200">
