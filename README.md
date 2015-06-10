@@ -2,15 +2,16 @@
 
 ***
 
+##### 扫描二维码下载纽约时报中文网 Android APP
+<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/android-latest.png" alt="扫描二维码下载纽约时报中文网 Android APP" width="200">
+
+***
+
 ##### 扫描二维码下载纽约时报中文网 iOS APP
 <img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/newsapp-iOS.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">
 
 ***
 
-##### 扫描二维码下载纽约时报中文网 Android APP
-<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/android-latest.png" alt="扫描二维码下载纽约时报中文网 Android APP" width="200">
-
-***
 
 ##### 免翻墙镜像
   1. https://d8sh4xake134y.cloudfront.net/
