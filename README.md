@@ -12,15 +12,6 @@
 
 ***
 
-
-##### 免翻墙镜像
-  1. https://d8sh4xake134y.cloudfront.net/
-  2. https://d34af95hy2ulp2.cloudfront.net/
-  3. https://d3jri41xoft0v0.cloudfront.net/
-  4. https://wam-nyt5.azurewebsites.net/
-
-***
-
 ##### 扫描二维码订阅每日/每周精选内容
 成为纽约时报中文网注册用户，可以通过电子邮件订阅每日/每周精选内容。
 
