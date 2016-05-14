@@ -13,18 +13,18 @@
 #### 扫描二维码下载 NYTVR iOS APP
 [<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-ios-nytvr.png" alt="扫描二维码下载 NYTVR iOS APP" width="200">](https://itunes.apple.com/app/id1028562337?ct=vr-link-github "NYTVR iOS APP")
 
-###### 微信用户请长按二维码打开链接
+###### 微信用户请长按二维码 "识别图中QR Code" 打开链接
 
 ***
 
 #### 扫描二维码下载 NYTVR Android APP
 [<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-mi-nytvr-apk.png" alt="扫描二维码下载 NYTVR Android APP" width="200">](http://app.mi.com/download/363198 "NYTVR Android APP")
 
-###### 微信用户请长按二维码打开链接
+###### 微信用户请长按二维码 "识别图中QR Code" 打开链接
 
 ***
 
 #### 扫描二维码下载 纽约时报中文网 iOS APP
 [<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-ios-newsapp-vr-github.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">](https://itunes.apple.com/app/id807498298?ct=vr-link-github "纽约时报中文网 iOS APP")
 
-###### 微信用户请长按二维码打开链接
+###### 微信用户请长按二维码 "识别图中QR Code" 打开链接
