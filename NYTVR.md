@@ -28,9 +28,3 @@
 [<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-ios-newsapp-vr-github.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">](https://itunes.apple.com/app/id807498298?ct=vr-link-github "纽约时报中文网 iOS APP")
 
 ###### 微信用户请长按二维码打开链接
-
-***
-
-#### 扫描二维码订阅 纽约时报中文网 每日/每周精选 Newsletter
-
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-newsletter-sub-vr-github.png" alt="扫描二维码订阅每日/每周精选内容" width="200">](https://d3nkbrensxlx96.cloudfront.net/email/?utm_source=nytvr-md&utm_medium=github&utm_campaign=newsletter-subscribe "订阅每日/每周精选内容")
