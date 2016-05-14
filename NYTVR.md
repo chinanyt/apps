@@ -17,7 +17,7 @@
 ***
 
 ##### 扫描二维码下载 NYTVR Android APP
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/android-latest.png" alt="扫描二维码下载纽约时报中文网 Android APP" width="200">](http://app.mi.com/download/363198 "NYTVR Android APP")
+[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/android-latest.png" alt="扫描二维码下载 NYTVR Android APP" width="200">](http://app.mi.com/download/363198 "NYTVR Android APP")
 
 ***
 
