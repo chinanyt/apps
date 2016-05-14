@@ -9,24 +9,28 @@
 
 如果有任何建议或疑问，请致函 [NYTVR@nytimes.com](mailto:nytvr@nytimes.com)
 
-***
+******
+#### 扫描二维码下载 NYTVR iOS APP
+[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-ios-nytvr.png" alt="扫描二维码下载 NYTVR iOS APP" width="200">](https://itunes.apple.com/app/id1028562337?ct=vr-link-github "NYTVR iOS APP")
 
-#### [点击 / 扫描二维码下载 NYTVR iOS APP](https://itunes.apple.com/app/id1028562337?ct=vr-link-github)
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/newsapp-iOS.png" alt="扫描二维码下载 NYTVR iOS APP" width="200">](https://itunes.apple.com/app/id1028562337?ct=vr-link-github "NYTVR iOS APP")
-
-***
-
-#### 点击 / 扫描二维码下载 NYTVR Android APP
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/android-latest.png" alt="扫描二维码下载 NYTVR Android APP" width="200">](http://app.mi.com/download/363198 "NYTVR Android APP")
+###### 微信用户请长按二维码打开链接
 
 ***
 
-#### 点击 / 扫描二维码下载 纽约时报中文网 iOS APP
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/newsapp-iOS.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">](https://itunes.apple.com/app/id807498298?ct=vr-link-github "纽约时报中文网 iOS APP")
+#### 扫描二维码下载 NYTVR Android APP
+[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-mi-nytvr-apk.png" alt="扫描二维码下载 NYTVR Android APP" width="200">](http://app.mi.com/download/363198 "NYTVR Android APP")
+
+###### 微信用户请长按二维码打开链接
 
 ***
 
-#### 扫描二维码订阅每日/每周精选内容
-成为纽约时报中文网注册用户，可以通过电子邮件订阅每日/每周精选内容。
+#### 扫描二维码下载 纽约时报中文网 iOS APP
+[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-ios-newsapp-vr-github.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">](https://itunes.apple.com/app/id807498298?ct=vr-link-github "纽约时报中文网 iOS APP")
 
-[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/nytcn-registration.png" alt="扫描二维码订阅每日/每周精选内容" width="200">](https://d3nkbrensxlx96.cloudfront.net/mobile/register/ "注册并订阅每日/每周精选内容")
+###### 微信用户请长按二维码打开链接
+
+***
+
+#### 扫描二维码订阅 纽约时报中文网 每日/每周精选 Newsletter
+
+[<img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/qr-newsletter-sub-vr-github.png" alt="扫描二维码订阅每日/每周精选内容" width="200">](https://d3nkbrensxlx96.cloudfront.net/email/?utm_source=nytvr-md&utm_medium=github&utm_campaign=newsletter-subscribe "订阅每日/每周精选内容")
