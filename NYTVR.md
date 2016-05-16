@@ -13,4 +13,3 @@
 <a href="http://app.mi.com/detail/363198" style="display: block; text-align: center; margin: 45px 0 50px 0; text-decoration: none;">
 <img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/nytvr-download-andorid.png" width="70%">
 </a>
-***
