@@ -2,8 +2,6 @@
 #### 下载 NYTVR iOS APP
 <a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github">
 <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>qr-ios-nytvr</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
             <stop stop-color="#D4D2D2" offset="0%"></stop>
