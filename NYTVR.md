@@ -2,7 +2,6 @@
 #### 下载 NYTVR iOS APP
 <a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github">
 <svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
     <title>qr-ios-nytvr</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -60,7 +59,6 @@
 #### 下载 NYTVR Android APP
 <a href="http://app.mi.com/detail/363198" style="display: block; text-align: center; margin: 45px 0 50px 0; text-decoration: none;">
 <svg width="330px" height="60px" viewBox="0 0 330 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
     <title>Group 4</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
