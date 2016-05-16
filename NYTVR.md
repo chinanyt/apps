@@ -1,7 +1,8 @@
 ## 下载 NYTVR APP
 ##### NYTVR iOS APP
-<a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github" style="text-align: center;">
 <img src="https://github.com/chinanyt/apps/raw/gh-pages/images/qr-ios-nytvr-512.png" width="70%">
+
+<a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github" style="text-align: center;">
 </a>
 <p>iPhone用户请长按二维码, 点击"识别图中QR Code"</p>
 <a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github" style="text-align: center;">
