@@ -1,6 +1,6 @@
 ## 下载 NYT VR APP
 ##### NYT VR iOS APP
-<a href="https://itunes.apple.com/app/id1028562337?ct=vr-link-github" style="text-align: center;">
+<a href="https://appsto.re/cn/6ixiW.i?ct=vr-link-github" style="text-align: center;">
 <img src="https://github.com/chinanyt/apps/raw/gh-pages/images/qr-ios-nytvr-512.png" width="70%">
 </a>
 <p>iPhone用户请长按二维码, 点击"识别图中QR Code"</p>
