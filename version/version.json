@@ -1,6 +1,6 @@
 {
-    "version":"1.0.1",
-    "message":"*完善了更新功能\n*增强了稳定性",
+    "version":"1.0.1.1",
+    "message":"*完善分享功能\n*增强了稳定性",
     "apk_download_link":"https://raw.githubusercontent.com/chinanyt/apps/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com"
 }
