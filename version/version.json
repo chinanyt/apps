@@ -1,6 +1,6 @@
 {
-    "version":"1.0.1.2",
-    "message":"*增加fabric",
+    "version":"1.0.1.3",
+    "message":"*删除测试throw",
     "apk_download_link":"https://raw.githubusercontent.com/chinanyt/apps/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com"
 }
