@@ -1,6 +1,6 @@
 {
-    "version":"1.0.1.11",
-    "message":"*修复了热门文章加载失败的bug",
+    "version":"1.0.1.12",
+    "message":"*修复了菜单bug\n修复在某些机型闪退的bug",
     "apk_download_link":"https://raw.githubusercontent.com/chinanyt/apps/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com/store/apps/details?id=com.nytimes.cn"
 }
