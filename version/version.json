@@ -1,6 +1,6 @@
 {
-    "version":"1.0.1.12",
-    "message":"*修复了菜单bug\n修复在某些机型闪退的bug",
+    "version":"1.0.1.13",
+    "message":"*解决了某些定制系统下载更新的问题\n如果您现在遇到下载更新的问题,如果已经下载成功，可以手动进入android的downlaod安装文件夹手动安装，如果下载失败。请重新扫描二维码下载，给您带来了不便，请您谅解",
     "apk_download_link":"https://raw.githubusercontent.com/chinanyt/apps/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com/store/apps/details?id=com.nytimes.cn"
 }
