@@ -3,5 +3,5 @@
     "message":"*增加了文章搜索功能\n*增加了推送功能\n\n*1.1更新由于内部架构变化巨大，导致Android覆盖安装出现问题,在文章界面闪退，给您造成了不便，请您谅解。这次1.1.0.06更新增加了清除缓存功能，如果您遭遇闪退，请这次更新完成后进入首页的设置菜单清除缓存。\n\n重要!!!\n如果您遇到闪退，请务必更新1.1.0.06，更新完成后请进入首页的设置菜单清理缓存，点击首页右上角三个点的图标--->选择设置--->点击清理缓存\n\n如果清理缓存依旧无法解决，请卸载当前app重新扫描二维码下载或者通过以下地址下载，下载地址:https://nytcnapp.blob.core.windows.net/nytcn/latest.apk",
     "apk_download_link":"https://nytcnapp.blob.core.windows.net/nytcn/latest.apk",
     "play_download_link":"https://play.google.com/store/apps/details?id=com.nytimes.cn",
-    "minVersionCode":"22"
+    "min_version_code":"22"
 }
