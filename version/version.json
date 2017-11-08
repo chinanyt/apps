@@ -4,6 +4,6 @@
     "apk_download_link":"https://github.com/chinanyt/apps/raw/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com/store/apps/details?id=com.nytimes.cn",
     "market_link":"market://details?id=com.nytimes.cn",
-    "min_version_code":"24",
+    "min_version_code":"1",
     "deadline":"1512057600"
 }
