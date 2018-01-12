@@ -1,7 +1,7 @@
 {
-    "version":"41",
-    "version_name":"1.1.0.10",
-    "message":"1.1.0.10 Build41更新\n\n*优化文章长截图功能\n\n*提升运行效率和稳定性\n\n*如果您遭遇闪退，请这次更新完成后进入首页的设置菜单清除缓存。\n\n重要!!!\n如果您遇到闪退，请务必更新至新版本，更新完成后请进入首页的设置菜单清理缓存，点击首页右上角三个点的图标--->选择设置--->点击清理缓存\n\n如果清理缓存依旧无法解决，请卸载当前app重新扫描二维码下载或者通过以下地址下载，下载地址:https://github.com/chinanyt/apps/raw/master/version/apk/latest.apk",
+    "version":"42",
+    "version_name":"1.1.0.11",
+    "message":"1.1.0.11 Build42更新\n\n*优化截图功能，移除长截图中的广告等无关内容\n\n*优化消息提醒\n\n*提升新闻推送稳定性\n\n*如果您遭遇闪退，请这次更新完成后进入首页的设置菜单清除缓存。\n\n重要!!!\n如果您遇到闪退，请务必更新至新版本，更新完成后请进入首页的设置菜单清理缓存，点击首页右上角三个点的图标--->选择设置--->点击清理缓存\n\n如果清理缓存依旧无法解决，请卸载当前app重新扫描二维码下载或者通过以下地址下载，下载地址:https://github.com/chinanyt/apps/raw/master/version/apk/latest.apk",
     "apk_download_link":"https://github.com/chinanyt/apps/raw/master/version/apk/latest.apk",
     "play_download_link":"https://play.google.com/store/apps/details?id=com.nytimes.cn",
     "market_link":"market://details?id=com.nytimes.cn",
