@@ -1,9 +1,9 @@
 {
-    "tips":"紐約時報問卷調查",
-    "tips_zh_hant":"紐約時報問卷調查",
+    "tips":"纽约时报问卷调查\n点击参与",
+    "tips_zh_hant":"紐約時報問卷調查\n點擊參與",
     "links":{
         "zh_hans":"https://nyt.ca1.qualtrics.com/jfe/preview/SV_bpIrzhIqSe7BXE1?Q_CHL=preview",
-        "zh_hant":"https://nyt.ca1.qualtrics.com/jfe/preview/SV_5z4EaJN1mVoumk5?Q_CHL=preview",
+        "zh_hant":"https://nyt.ca1.qualtrics.com/jfe/preview/SV_5z4EaJN1mVoumk5?Q_CHL=preview"
     },
     "show":"false"
 }
