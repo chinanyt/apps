@@ -2,8 +2,8 @@
     "tips":"纽约时报中文网用户调研\n点击参与",
     "tips_zh_hant":"紐約時報中文網用戶調研\n點擊參與",
     "links":{
-        "zh_hans":"https://nyt.qualtrics.com/jfe/form/SV_bpIrzhIqSe7BXE1?Source=androidapp",
-        "zh_hant":"https://nyt.qualtrics.com/jfe/form/SV_5z4EaJN1mVoumk5?Source=androidapp"
+        "zh_hans":"https://nyt.qualtrics.com/jfe/form/SV_bpIrzhIqSe7BXE1?Q_CHL=android",
+        "zh_hant":"https://nyt.qualtrics.com/jfe/form/SV_5z4EaJN1mVoumk5?Q_CHL=android"
     },
     "show":"true"
 }
