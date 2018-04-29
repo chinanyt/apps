@@ -1,9 +1,9 @@
 {
-    "tips":"纽约时报中文网用户调研\n点击参与",
-    "tips_zh_hant":"紐約時報中文網用戶調研\n點擊參與",
+    "tips":"五一假期期间不更新",
+    "tips_zh_hant":"五一假期期間不更新",
     "links":{
-        "zh_hans":"https://nyt.qualtrics.com/jfe/form/SV_bpIrzhIqSe7BXE1?Q_CHL=android",
-        "zh_hant":"https://nyt.qualtrics.com/jfe/form/SV_5z4EaJN1mVoumk5?Q_CHL=android"
+        "zh_hans":"",
+        "zh_hant":""
     },
-    "show":"false"
+    "show":"true"
 }
