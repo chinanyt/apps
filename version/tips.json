@@ -1,9 +1,9 @@
 {
-    "tips":"五一假期期间不更新",
-    "tips_zh_hant":"五一假期期間不更新",
+    "tips":"端午节假期期间不更新",
+    "tips_zh_hant":"端午節假期期間不更新",
     "links":{
         "zh_hans":"",
         "zh_hant":""
     },
-    "show":"false"
+    "show":"true"
 }
