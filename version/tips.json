@@ -1,9 +1,9 @@
 {
-    "tips":"中秋节假期期间不更新",
-    "tips_zh_hant":"中秋節假期期間不更新",
+    "tips":"国庆假期期间不更新",
+    "tips_zh_hant":"中國國慶假期期間不更新",
     "links":{
         "zh_hans":"",
         "zh_hant":""
     },
-    "show":"false"
+    "show":"true"
 }
