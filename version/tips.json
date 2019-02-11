@@ -2,8 +2,8 @@
     "tips":"春节假期期间不更新",
     "tips_zh_hant":"春節假期期間不更新",
     "links":{
-        "zh_hans":"https://www.nytimes.com/zh-hans/interactive/2018/11/18/world/asia/china-rules.html?utm_source=androidcnapp",
-        "zh_hant":"https://www.nytimes.com/zh-hant/interactive/2018/11/18/world/asia/china-rules.html?utm_source=androidcnapp"
+        "zh_hans":"",
+        "zh_hant":""
     },
-    "show":"true"
+    "show":"false"
 }
