@@ -1,0 +1,20 @@
+{
+  "fonts_list": [
+    {
+      "fileName": "SystemDefault",
+      "name": "SystemDefault",
+      "name_bold": "SystemDefault",
+      "name_zh_hans": "系统字体",
+      "name_zh_hant": "系統字體",
+      "download_link": ""
+    },
+    {
+      "fileName": "SourceHanSerif.zip",
+      "name": "SourceHanSerif",
+      "name_bold": "SourceHanSerif_bold",
+      "name_zh_hans": "思源宋体",
+      "name_zh_hant": "思源宋體",
+      "download_link": "http://192.168.2.201:8080/fonts_test/SourceHanSerif.zip"
+    }
+  ]
+}
