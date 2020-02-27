@@ -6,5 +6,6 @@
   "play_download_link": "https://play.google.com/store/apps/details?id=com.nytimes.cn",
   "market_link": "market://details?id=com.nytimes.cn",
   "min_version_code": "1",
-  "deadline": "1512057600"
+  "deadline": "1512057600",
+  "download_page":"https://cn.nytimes.com/apps/android/",
 }
