@@ -2,7 +2,7 @@
   "version": "92",
   "version_name": "2.0.2",
   "message": "2.0.2 Build 92更新\n\n*重新设计用户界面，引入全新中英文字体，改善阅读体验\n\n*首屏和各频道使用大图，增强报道效果\n\n*优化“夜间模式”样式，便于在低环境光条件下阅读\n",
-  "apk_download_link": "https://downloadcnapp.oss-cn-hongkong.aliyuncs.com/latest.apk",
+  "apk_download_link": "https://github.com/chinanyt/apps/raw/master/version/apk/latest.apk",
   "play_download_link": "https://play.google.com/store/apps/details?id=com.nytimes.cn",
   "market_link": "market://details?id=com.nytimes.cn",
   "min_version_code": "1",
